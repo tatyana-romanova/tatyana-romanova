@@ -2,7 +2,6 @@
 
 ### :Junior_QA_Engineer:  About Me :
 ---
-### :fire: My Stats :
 
 <!--
 **tatyana-romanova/tatyana-romanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
