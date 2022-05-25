@@ -4,7 +4,7 @@
 ---
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-tatyana-romanovas.herokuapp.com/?tatyana-romanova)](https://git.io/tatyana-romanova)
+[![GitHub Streak](https://github-readme-tatyana-romanova.herokuapp.com/?user=tatyana-romanova)](https://git.io/tatyana-romanova)
 
 <!--
 **tatyana-romanova/tatyana-romanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
