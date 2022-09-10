@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-### :QA Engineer
-
-I’m currently learning Сourses QA by Vadim Ksendzov QA Engeener
+### :My name is Tatyana.
+I live in Minsk.
+I am a beginner QA Engineer.
+I’m currently learning Сourses QA by Vadim Ksendzov QA Engeener.
 ---
 
 <!--
