@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### :_QA_Engineer:  About Me :
+### :QA Engineer
+
+I’m currently learning Сourses QA by Vadim Ksendzov QA Engeener
 ---
 
 <!--
